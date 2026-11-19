@@ -96,7 +96,7 @@ Currently, I enjoy building projects that combine **technology, data, and real-w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TU_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verenisse-mary-quispitongo-leon-072763278/)
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO_AQUI)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vere.quispi.ofc@gmail.com)
 
 ---
 
