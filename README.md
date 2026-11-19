@@ -94,7 +94,7 @@ Currently, I enjoy building projects that combine **technology, data, and real-w
 
 [![GitHub](https://img.shields.io/badge/GitHub-verenisseql-181717?style=for-the-badge&logo=github)](https://github.com/verenisseql)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TU_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TU_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/verenisse-mary-quispitongo-leon-072763278/)
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO_AQUI)
 
